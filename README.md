@@ -1,6 +1,23 @@
 # Nike Store Commerce Web Application! Check Live: [https://pharmaticaul.vercel.app//](https://pharmaticaul.vercel.app/)
-- Pre-requisites: Nothings! Just Stuck into This Course
-This project is developed and designed by JSSTACK DEVELOPERS (`#ahmed_js 😅🚀🚀🚀`).
+## 📸 Project Preview
+
+### 🏠 HomePage1
+![HomePage1](./assets/pharmaticaul-1.png)
+
+### 🔐 HomePage1 Mobile
+![Login](./assets/pharmaticaul-mobile-1.png)
+
+### 🏠 HomePage2
+![HomePage1](./assets/pharmaticaul-2.png)
+
+### 🏠 HomePage2 Mobile
+![HomePage2](./assets/pharmaticaul-mobile-2.png)
+
+### 🏠 HomePage3
+![HomePage3](./assets/pharmaticaul-3.png)
+
+---
+
 This is a [Vite.js](https://vitejs.dev/) project bootstrapped with [`npm create vite@latest`]. Designed with TailwindCSS!
 # Important Links: 📣📢📣📢📣📢✈✈✈
 ### Go to ViteJS [https://vitejs.dev/] (https://vitejs.dev/)!
