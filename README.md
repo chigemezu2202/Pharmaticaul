@@ -1,4 +1,4 @@
-# Nike Store Commerce Web Application! Check Live: [https://nike-store-jsstack.vercel.app/](https://nike-store-jsstack.vercel.app/)
+# Nike Store Commerce Web Application! Check Live: [https://pharmaticaul.vercel.app//](https://pharmaticaul.vercel.app/)
 - Pre-requisites: Nothings! Just Stuck into This Course
 This project is developed and designed by JSSTACK DEVELOPERS (`#ahmed_js 😅🚀🚀🚀`).
 This is a [Vite.js](https://vitejs.dev/) project bootstrapped with [`npm create vite@latest`]. Designed with TailwindCSS!
